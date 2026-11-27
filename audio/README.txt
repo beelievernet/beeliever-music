@@ -4,5 +4,6 @@ Release MP3s (192k, full tag set embedded). Provenance:
 02-more-than-a-symbol.mp3            More Than a Symbol, keeper take 8
 03-lamb-of-god.mp3                   Lamb of God (sheeted as The Lamb Was Always Eaten),
                                      take 46 finished in REAPER
+04-quis-ut-deus.mp3                  Quis ut Deus, keeper take 5
 
 Later tracks follow the same pattern: NN-title-in-plain-ascii.mp3
